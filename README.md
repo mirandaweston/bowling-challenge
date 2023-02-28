@@ -1,10 +1,12 @@
-# Bowling Challenge: Count and sum the scores of a bowling game for one player (in JavaScript)
+# Bowling Challenge
 
-## The Task
+### Count and sum the scores of a bowling game for one player (in JavaScript)
+
+## 1. The Task
 
 A bowling game consists of 10 frames in which the player tries to knock down the 10 pins. In every frame the player can roll one or two times. The actual number depends on strikes and spares. The score of a frame is the number of knocked down pins plus bonuses for strikes and spares. After every frame the 10 pins are reset.
 
-## Bowling — how does it work?
+## 2. Bowling — how does it work?
 
 ### Strikes
 
@@ -29,7 +31,7 @@ A Gutter Game is when the player never hits a pin (20 zero scores).
 
 A Perfect Game is when the player rolls 12 strikes (10 regular strikes and 2 strikes for the bonus in the 10th frame). The Perfect Game scores 300 points.
 
-## 1. Installation
+## 3. Installation
 _Run the following commands in your terminal._
 
 ``` javascript
@@ -48,9 +50,9 @@ cd bowling-challenge
 npm install https://github.com/mirandaweston/bowling-challenge.git
 ```
 
-## 2. Technologies used
+## 4. Technologies used
 - JavaScript
 - node.js
 - Jest
 
-## Test coverage
+## 5. Test coverage
