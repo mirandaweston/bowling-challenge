@@ -56,3 +56,6 @@ npm install https://github.com/mirandaweston/bowling-challenge.git
 - Jest
 
 ## 5. Test coverage
+
+![Image 28-02-2023 at 11 09](https://user-images.githubusercontent.com/117643324/221837532-315f9781-6e83-4edb-89fe-e7239f45fa40.jpg)
+
